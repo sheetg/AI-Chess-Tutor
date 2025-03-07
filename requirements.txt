@@ -1,0 +1,11 @@
+streamlit==1.43.0
+python-chess==1.999
+openai==1.65.4
+azure-cognitiveservices-speech==1.42.0
+
+Optional
+cairocffi==1.7.1
+CairoSVG==2.7.1
+
+
+
